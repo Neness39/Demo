@@ -1,0 +1,11 @@
+# ignorer tous les fichiers .class (compilation JAVA)
+*.class
+
+# sauf cette classe
+!test.class
+
+# ignorer .properties
+*.properties
+
+# ignorer un fichier spécifiquement /fichier.ext juste celui se trouvant à la racine
+# /fichier.ext
